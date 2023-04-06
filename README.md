@@ -36,3 +36,5 @@ support@shuffle.dev
 
 We use placeholders from https://unsplash.com/
 # NYC_Events
+# Events2
+# Events2
